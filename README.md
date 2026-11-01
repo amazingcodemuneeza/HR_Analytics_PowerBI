@@ -11,9 +11,6 @@ An end-to-end Power BI project that helps the HR team at **Green Labs**, a techn
 - [DAX Measures](#dax-measures)
 - [Dashboard Pages](#dashboard-pages)
 - [Business Recommendations](#business-recommendations)
-- [Project Approach](#project-approach)
-- [Repository Structure](#repository-structure)
-- [Limitations and Next Steps](#limitations-and-next-steps)
 - [Contact](#contact)
 
 ## Business Problem
@@ -105,7 +102,4 @@ Attrition rate broken down by department and job role, hire date, business trave
 
 **Muneeza Syed**
 Data Analyst | [Linkedin.com/](https://www.linkedin.com/in/muneeza-syed-mia)
-
-- Portfolio: [your portfolio link]
-- LinkedIn: [your LinkedIn link]
-- Email: [your email]
+Email: muneezasyed450"gmail.com
